@@ -1,0 +1,12 @@
+Machine Learning Project Lifecycle:
+
+1.problem Definition: Identify what problem you are trying to solve.
+2.data Collection: Collection of data from kaggle,API(Application Programming interface:carry data from one place to another place is known as API).
+3.data Preprocessing: Converting data types Or cleaning data.
+4.EDA(Exploratory Data analysis) : After removing we will see patterns.
+5.feature engineering: we will select the features.
+6.model selection: we will select model.
+7.model evaluation(to evaluate we have r square).
+8.hyperparameter tuning: we will improve the model accuracy.
+9.model deployment.
+10.monitoring and maintenance.
